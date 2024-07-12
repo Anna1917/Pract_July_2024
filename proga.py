@@ -3,7 +3,7 @@ aa = int(input())
 
 bb = int(input())
 
-cc = int(input())
+ccc = int(input())
 
-s = aa + bb + cc
+s = aa + bb + ccc
 print('Среднее арифметическое равно', s // 3)
