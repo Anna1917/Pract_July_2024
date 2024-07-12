@@ -1,9 +1,9 @@
 
-a = int(input())
+aa = int(input())
 
-b = int(input())
+bb = int(input())
 
-c = int(input())
+cc = int(input())
 
-s = a + b + c
+s = aa + bb + cc
 print('Среднее арифметическое равно', s // 3)
